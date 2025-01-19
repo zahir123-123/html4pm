@@ -1,0 +1,209 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav{
+    height: 60px;
+    width: 100vw;
+    background-color: #0f1111;
+    display: flex;
+}
+.logo{
+    height: 60px;
+    width: 130px;
+    
+}
+.address{
+    color :#cccccc;
+    font-size:12px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content:center;
+}
+.locationicon{
+    display: flex;
+    padding: 12px;
+}
+.add{
+    padding-top: 8px;
+}
+.searchbar{
+    padding: 10px 0 0 30px ;
+    display: flex;
+}
+.Deals{
+    height: 40px;
+    width: 60px;
+    background-color: #cac9c9;
+    display: flex;
+    align-items: center;  
+    justify-content: center;
+}
+.Search{
+    box-sizing: content-box;
+    height: 40px;
+    width: 40vw;
+    background-color: white;
+    display: flex;
+    align-items: center;  
+    padding-left: 10px;
+    justify-content: start;
+    color: #625e5e;
+}
+.searchicon{
+    height: 40px;
+    width: 40px;
+    background-color: #f08804;
+    
+}
+
+h2{
+    color: white;
+}
+
+
+.container{
+    height: 200px;
+    width: 100vw;
+    display: flex;
+     align-items: center;
+     flex-wrap: wrap;
+     box-sizing: border-box;
+}
+
+
+.box{
+    box-sizing: border-box;
+    padding-left: 50px;    
+    padding-top: 23px;
+   
+
+}
+
+h3{
+   margin-top:4px ;
+   align-items: center;
+   display: flex;
+   justify-content: center;
+   font-family: Garamond, serif;
+   font-size: 15px;
+   color: #333333;
+}
+.country{
+    padding: 5px 0 0 20px;
+}
+.user{
+    height: 40px;
+    width: 10vw;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 5px 0 0 20px;
+
+}
+#hlo{
+    color: #FFFFFF;
+    font-size: 12px;
+}
+
+#acc-list{
+    color: white;
+    font-weight: 24px 1.5em;
+    
+}
+#acc-list{
+    font-size: 17px;
+}
+.order{
+    height: 50px;
+    width: 4vw;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+#hlo{
+    color: #cccccc;
+}
+#ordr{
+    font-size: 14px;
+}
+.cart{
+    height: 40px;
+    width: 2vw;
+    padding: 0 0 0 10px;
+}
+.second-row{
+    height: 40px;
+    width: 100vw;
+    background-color: #232f3e;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+.option{
+    padding: 2px 0 0 7px;
+    padding-left: 15px;
+    color: #FFFFFF;
+
+}
+#secndrowend{
+    height:40px;
+    padding-left: 10vw;
+}
+.banner{
+    height:83vh;
+    width: 100vw;
+    display: flex;
+    background: url(https://images-eu.ssl-images-amazon.com/images/G/31/img21/Books/BXJanART25/D196893865_PC_Leadup_Hero_Asin._CB537783994_.jpg);
+    background-position: center center;
+    background-size: cover;
+    justify-content: center;
+}
+.box-banner{
+    display: flex;
+    margin-top:-50vh;
+    box-sizing: content-box;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.small-box{
+    height: 380px;
+    width: 350px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+    margin: 10px; 
+
+}
+
+#box-banner-h2{
+    color: black;
+    padding: 20px 0 0 10px;
+    font-size: 25px;
+    
+}
+#title-size{
+    width: 400px;
+    height: 0px;
+}
+#small-img{
+height: 100px;
+width: 140px;
+padding-left: 10px;
+}
+#small-img-title{
+    font-size: 12px;
+display: flex;
+padding-left: 20px;
+}
+.inside-box{
+    height: 80px;
+}
+#explore{
+    color: #2162A1;
+margin-bottom: -115px;
+margin-left: 10px;    }
